@@ -1,1 +1,1 @@
-# my_wallpapers
+My wallpapers repository
