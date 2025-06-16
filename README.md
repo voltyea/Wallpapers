@@ -1,1 +1,1 @@
-My wallpapers repository
+## This is a collection of my personal wallpapers.
